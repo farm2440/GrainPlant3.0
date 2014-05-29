@@ -1,0 +1,8 @@
+{DONE : Wait for the discharge flap to fully close, before starting dose}
+{DONE : Do not start next dose if target bunker is overflown}
+{DONE : Continue discharging when bunker is overflow}
+{DONE : Wait for the liquids to finish before discharging}
+{TODO : Bunkers 1..6 errors}
+{DONE : Zero & Tare}
+{TODO : Material jam}
+{TODO : Hammer shortcut in manual mode}
